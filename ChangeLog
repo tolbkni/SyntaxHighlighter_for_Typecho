@@ -1,0 +1,5 @@
+0.0.5   新增设置选项：代码缩进宽度，是否显示工具栏等设置选项
+0.0.4   添加遗漏的 License 文件
+0.0.3	增加 AutoHotKey 和 BATch 语法高亮文件
+0.0.2	新增设置选项：主题选择
+0.0.1	移植 SyntaHighlighter for Wordpress 插件到 Typecho
