@@ -1,5 +1,7 @@
-0.0.5   ��������ѡ������������ȣ��Ƿ���ʾ������������ѡ��
-0.0.4   ������©�� License �ļ�
-0.0.3	���� AutoHotKey �� BATch �﷨�����ļ�
-0.0.2	��������ѡ�����ѡ��
-0.0.1	��ֲ SyntaHighlighter for Wordpress ����� Typecho
+0.0.7 将 LGPLv3 替换为 GPLv2
+0.0.6 从 SyntaxHighlighter 的 git 仓库中导入最新的代码
+0.0.5 新增设置选项：代码缩进宽度，是否显示工具栏等设置选项
+0.0.4 添加遗漏的 License 文件
+0.0.3 增加 AutoHotKey 和 BATch 语法高亮文件
+0.0.2 新增设置选项：主题选择
+0.0.1 移植 SyntaHighlighter for Wordpress 插件到 Typecho
